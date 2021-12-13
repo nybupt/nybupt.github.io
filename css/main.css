@@ -140,3 +140,11 @@ footer a:not(.nav-link) {
   .page-break {
     padding-top: 5rem;
     page-break-before: always; } }
+
+.div_css5_italic{ font-style:italic}
+.div_css5_oblique{ font-style:oblique}
+.div_css5_normal i{ font-style:normal}
+
+.my_div{
+  margin-bottom: 10px;
+}
